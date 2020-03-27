@@ -1,1 +1,4 @@
-https://github.com/Sirada99/sample
+The respiratory for lab 10 is here: https://github.com/Sirada99/sample
+I try my best to modify and deploy it (created three models from Heart Disease UCI data and change the Application code).
+When I'm trying to deploy, it gave error that there are something wrong in the application so I check the logs to find out the error.
+However, I don't understand the error so I cannot fix it. I'm sure that I do step by step as the lecturer told.
